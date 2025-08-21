@@ -18,3 +18,7 @@ nav ul {
 	justify-content: space-around;
 
 }
+nav a:hover {
+	color: darkblue;
+}
+
